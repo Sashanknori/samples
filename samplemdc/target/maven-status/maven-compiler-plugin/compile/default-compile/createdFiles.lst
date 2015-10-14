@@ -1,0 +1,4 @@
+com/test/samplemdc/ApplicationConfig.class
+com/test/samplemdc/SampleObject.class
+com/test/mdcfilters/MDCFilter.class
+com/test/samplemdc/SampleLoggerImplementer.class
